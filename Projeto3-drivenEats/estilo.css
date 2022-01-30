@@ -1,0 +1,179 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Encode+Sans:wght@100;200;300;400;500;600;700 & family= Righteous & display=swap' );
+
+body{
+    width:500px;
+    background:rgb(238, 238, 238);
+    overflow-x:hidden;
+}
+.ad{
+    margin-bottom: 100px;
+    color:grey
+}
+.titulo2{
+    font-size:20px;
+}
+.discriçao{
+    font-size:15px;
+    
+    color:rgb(172, 156, 156);
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.drinven{
+    font-family: 'Encode Sans', sans-serif;
+    
+    margin-left: 10px;
+    font-size: 50px;
+}
+.em6{
+    margin-left: 10px;
+    font-family: 'Encode Sans', sans-serif;
+    
+    
+}
+
+.red{
+    background:red;
+    height: 100px;
+    width: 600px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+    flex-direction: column;
+    position: fixed;
+    top:0;
+    box-shadow: 0px 5px 5px rgb(184, 184, 184);
+    
+    
+
+    
+    
+}
+.titulo{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    font-size: 25px;
+    font-family: 'Encode Sans', sans-serif;
+
+}
+.caixa{
+    width: 200px;
+    height: 280px;
+    
+    margin-left: 25px;
+    border: 5px solid white;
+    background: white;
+    border-radius: 10px;
+}
+.amarrar{
+    width:500px;
+    height:280px;
+    display: flex;
+   
+    
+    
+    overflow-x:scroll;
+}
+img{
+    margin-top: 10px;
+    width:200px;
+    height:150px
+}
+.botao{
+    width:500px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+
+    margin-top: 10px;
+    
+}
+.botao2{
+    width:400px;
+    height:80px;
+    background:gray;
+    border-radius: 400px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.pag{
+    width:450px;
+    height:450px;
+    position: fixed;
+    top:35%;
+    left: 2%;
+    
+    background:green;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+
+    
+}
+.texth1{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    margin-left:80px;
+    font-size: 25px;
+    color:white;
+}
+.textp{
+    margin-bottom: 15px;
+    margin-left: 50px;
+    
+}
+.continuar{
+    height:50px;
+    width:400px;
+    background:white;
+    margin-left: 20px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 150px;
+}
+.cancelar{
+    height: 50px;
+    width: 400px;
+    
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cor{
+    color: white;
+}
+.cor2{
+    color: green;
+}
+.fundo{ 
+    background: rgba(184, 179, 179, 0.802);
+    
+    width:100%;
+    height:8000px;
+    position: absolute;
+    top:20px;
+    display: none;
+}
+.espaço{
+    margin-left: 150px;
+}
